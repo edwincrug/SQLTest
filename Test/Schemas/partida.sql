@@ -1,0 +1,3 @@
+CREATE SCHEMA [partida]
+	AUTHORIZATION [dbo]
+GO
